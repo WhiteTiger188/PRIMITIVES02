@@ -7,7 +7,7 @@ public class Main {
         //pay = 1100; // Клиент пополнил счёт на 1000 рублей
         int bonus = 0; // Бонус
 
-        if (pay >= 1000) {
+        if (pay >= 1100) {
             bonus = pay / 100;
         }
 
